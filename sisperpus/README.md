@@ -1,5 +1,5 @@
 # Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
+Nama Website ini adalah : CuyPerpus
 
 CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
